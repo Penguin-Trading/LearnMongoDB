@@ -4,6 +4,7 @@ MongoDB学习
 ## 课程详细
 
 1. 什么是MongoDB？
+2. MongoDB的安装
 
 ## 课程文件
 
