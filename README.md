@@ -8,6 +8,7 @@ MongoDB学习
 3. 基本概念的理解
 4. 简简单单NoSql
 5. 操作集合（Collection）
+6. 操作文档（Document）
 
 ## 课程文件
 
