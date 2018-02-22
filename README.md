@@ -9,6 +9,7 @@ MongoDB学习
 4. 简简单单NoSql
 5. 操作集合（Collection）
 6. 操作文档（Document）
+7. 带条件的文档
 
 ## 课程文件
 
