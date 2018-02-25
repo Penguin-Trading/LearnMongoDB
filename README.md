@@ -23,6 +23,6 @@ MongoDB学习
 
 https://gitee.com/komavideo/LearnMongoDB
 
-## 小马视频频道（优酷）
+## 小马视频频道
 
-http://i.youku.com/komavideo
+http://komavideo.com/
